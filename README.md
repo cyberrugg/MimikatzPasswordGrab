@@ -25,7 +25,7 @@ Project consists of a VirtualBox environment loaded with Kali Linux, a Windows 1
 
 <p align="center">
 Oracle VM Lab <br/>
-<img src="https://imgur.com/llgR957.png" height="80%" width="80%"%" alt="MimikatzPasswordGrab"/>
+<img src="https://imgur.com/llgR957.png" height="75%" width="75%"%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Select the disk:  <br/>
