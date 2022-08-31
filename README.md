@@ -29,7 +29,7 @@ Oracle VM Lab <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80" alt="MimikatzPasswordGrab"/>
+<img src="https://imgur.com/JqSNEDl.png" height="80%" width="80" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Enter the number of passes: <br/>
