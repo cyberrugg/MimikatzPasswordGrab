@@ -9,9 +9,13 @@ Project consists of a VirtualBox environment loaded with Kali Linux, a Windows 1
 
 <h2>Machines Used</h2>
 
-- <b>Kali Linux</b> 
+- <b>Kali Linux (attacker)</b> 
 - <b>Diskpart</b>
 
+<h2>Programs Used</h2>
+- <b>Mimikatz</b> 
+- <b>Hashcat</b> 
+- 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
