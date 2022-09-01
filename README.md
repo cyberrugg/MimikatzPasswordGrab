@@ -28,28 +28,40 @@ Oracle VM Lab <br/>
 <img src="https://imgur.com/llgR957.png" height="75%" width="75%"%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://imgur.com/JqSNEDl.png" height="80%" width="80" alt="MimikatzPasswordGrab"/>
+Different networks Kali can access:  <br/>
+<img src="https://imgur.com/JqSNEDl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+ip addr-Different IP addresses/different networks: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Kali part of Red Team Lab: <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Nmap of Red Team Lab:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Mimikatz launched on DC machine:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Begin retrieval of domain users’ creds:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<br />
+<br />
+NTLM hashes from domain users 1:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="
+<br />
+<br />
+NTLM hashes from domain users 2:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="
+<br />
+<br />
+Mimikatz launched on DC machine:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="                                                                         
 </p>
 
 <!--
