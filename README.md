@@ -7,19 +7,20 @@ Project consists of a VirtualBox environment loaded with Kali Linux, a Windows 1
 <br />
 
 
-<h2>Machines Used</h2>
+<h2>Linux Distribution Used</h2>
 
-- <b>Kali Linux (attacker)</b> 
-- <b>Diskpart</b>
+- <b>Kali Linux 2022.3(attacker)</b> 
 
-<h2>Programs Used</h2>
-- <b>Mimikatz</b> 
-- <b>Hashcat</b> 
-- 
+
+<h2>Programs</h2>
+
+- <b>Mimikatz </b> 
+- <b>Hashcat </b> 
+
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Windows DC</b> (21H2)
+- <b>Windows 10 </b> 
+- <b>Windows DC </b>
 
 <h2>Program walk-through:</h2>
 
@@ -32,24 +33,24 @@ Different networks Kali can access:  <br/>
 <img src="https://imgur.com/JqSNEDl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-ip addr-Different IP addresses/different networks: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+ip addr-Different IP addresses for different networks: <br/>
+<img src="https://i.imgur.com/mqk2nRr.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Kali part of Red Team Lab: <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/JqSNEDl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Nmap of Red Team Lab:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/Q3hMQzl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Mimikatz launched on DC machine:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/zFhHMz8.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Begin retrieval of domain users’ creds:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/lDy4wul.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 NTLM hashes from domain users 1:  <br/>
