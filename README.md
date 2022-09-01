@@ -58,11 +58,15 @@ NTLM hashes from domain users 1:  <br/>
 <br />
 <br />
 NTLM hashes from domain users 2:  <br/>
+<img src="https://i.imgur.com/YRW3PJl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<br />
+<br />
+Hashcat cracking 1:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Mimikatz launched on DC machine:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                       
+Hashcat cracking 1:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                           
 </p>
 
 <!--
