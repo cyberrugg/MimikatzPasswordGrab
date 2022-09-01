@@ -62,11 +62,11 @@ NTLM hashes from domain users 2:  <br/>
 <br />
 <br />
 Hashcat cracking 1:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/mCBsVun.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
-Hashcat cracking 1:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                           
+Hashcat cracking 2:  <br/>
+<img src="https://i.imgur.com/FxKPLnK.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                           
 </p>
 
 <!--
