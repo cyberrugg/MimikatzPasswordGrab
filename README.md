@@ -54,15 +54,15 @@ Begin retrieval of domain users’ creds:  <br/>
 <br />
 <br />
 NTLM hashes from domain users 1:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="
+<img src="https://i.imgur.com/cEkm5aw.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 NTLM hashes from domain users 2:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Mimikatz launched on DC machine:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="                                                                         
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                       
 </p>
 
 <!--
