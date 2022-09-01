@@ -26,47 +26,47 @@ Project consists of a VirtualBox environment loaded with Kali Linux, a Windows 1
 
 <p align="center">
 Oracle VM Lab <br/>
-<img src="https://imgur.com/llgR957.png" height="75%" width="75%"%" alt="MimikatzPasswordGrab"/>
+<img src="https://imgur.com/llgR957.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Different networks Kali can access:  <br/>
-<img src="https://imgur.com/JqSNEDl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://imgur.com/JqSNEDl.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 ip addr-Different IP addresses for different networks: <br/>
-<img src="https://i.imgur.com/mqk2nRr.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/mqk2nRr.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Kali part of Red Team Lab: <br/>
-<img src="https://i.imgur.com/JqSNEDl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/JqSNEDl.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Nmap of Red Team Lab:  <br/>
-<img src="https://i.imgur.com/Q3hMQzl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/Q3hMQzl.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Mimikatz launched on DC machine:  <br/>
-<img src="https://i.imgur.com/zFhHMz8.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/zFhHMz8.png" height="70%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Begin retrieval of domain users’ creds:  <br/>
-<img src="https://i.imgur.com/lDy4wul.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/lDy4wul.png" height="70%" width="80%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 NTLM hashes from domain users 1:  <br/>
-<img src="https://i.imgur.com/cEkm5aw.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/cEkm5aw.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 NTLM hashes from domain users 2:  <br/>
-<img src="https://i.imgur.com/YRW3PJl.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/YRW3PJl.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Hashcat cracking 1:  <br/>
-<img src="https://i.imgur.com/mCBsVun.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>
+<img src="https://i.imgur.com/mCBsVun.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>
 <br />
 <br />
 Hashcat cracking 2:  <br/>
-<img src="https://i.imgur.com/FxKPLnK.png" height="80%" width="80%" alt="MimikatzPasswordGrab"/>                                                                           
+<img src="https://i.imgur.com/FxKPLnK.png" height="70%" width="70%" alt="MimikatzPasswordGrab"/>                                                                           
 </p>
 
 <!--
